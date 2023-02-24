@@ -1,4 +1,4 @@
-# HK BUS
+# Pancake Auto Trade
 
 This is python  project to trading crypto using pancake platform
 
