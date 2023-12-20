@@ -1,6 +1,6 @@
-# Pancake Auto Trade
+# Crypto Auto Trade
 
-This is python  project to trading crypto using pancake platform
+This is python  project to trading crypto
 
 ## Installation
 
